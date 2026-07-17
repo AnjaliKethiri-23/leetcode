@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Prefix Sum
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2670-find-the-distinct-difference-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
