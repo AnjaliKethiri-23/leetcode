@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2670-find-the-distinct-difference-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [2670-find-the-distinct-difference-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 <!---LeetCode Topics End-->
