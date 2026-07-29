@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0011-container-with-most-water) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnjaliKethiri-23/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
