@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnjaliKethiri-23/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
