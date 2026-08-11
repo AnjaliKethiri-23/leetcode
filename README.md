@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
