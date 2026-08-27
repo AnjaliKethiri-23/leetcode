@@ -5,9 +5,17 @@ class Solution(object):
         :rtype: bool
         """
         is_found=False 
-        nums.sort()
-        for i in range(0,len(nums)-1):
-            if nums[i]==nums[i+1]:
+       
+        d={}
+        for i in range(0,len(nums)):
+            if nums[i] not in d:
+                d[nums[i]]=1
+            else:
+                d[nums[i]]+=1
+                    
+        for k,v in d.items():   #t.c=o(n),s.c=0(n)
+            if v>1:
                 is_found=True
                 break
+    
         return is_found   
