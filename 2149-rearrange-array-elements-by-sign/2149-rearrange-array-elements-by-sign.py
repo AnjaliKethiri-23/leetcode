@@ -1,9 +1,5 @@
-class Solution(object):
-    def rearrangeArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def rearrangeArray(self, nums: List[int]) -> List[int]:
         p=[]
         n=[]
         for x in nums:
@@ -18,3 +14,4 @@ class Solution(object):
             result.append(n[i])
 
         return result        
+    
