@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnjaliKethiri-23/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AnjaliKethiri-23/leetcode/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnjaliKethiri-23/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
